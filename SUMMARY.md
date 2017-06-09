@@ -23,6 +23,8 @@
    * [loop lab](02_front_end/loopLab.md)
    * [Disney Loops](02_front_end/wednesday_homework.md)
    * [morning function practice](02_front_end/morningFunctionPractice.md)
+   * [DOM Events](02_front_end/js-dom-events.md)
+   * [DOM Manipulation](02_front_end/js-dom-manipulation.md)
 * [Homework](01_basics/ah_star_wars_cli.md)
    * [function](02_front_end/BeginnerFunctionPractice.md)
    * [layout challenge](02_front_end/cssChallenge.md)
