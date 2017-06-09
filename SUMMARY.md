@@ -30,5 +30,5 @@
    * [function](02_front_end/BeginnerFunctionPractice.md)
    * [layout challenge](02_front_end/cssChallenge.md)
    * [JS Clock](02_front_end/JSClock.md)
-   * [vanilla Fellowship](WeekendHomework.md)
+   * [vanilla Fellowship](02_front_end/WeekendHomework.md)
 
