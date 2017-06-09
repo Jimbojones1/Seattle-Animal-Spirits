@@ -23,7 +23,10 @@
    * [loop lab](02_front_end/loopLab.md)
    * [Disney Loops](02_front_end/wednesday_homework.md)
    * [morning function practice](02_front_end/morningFunctionPractice.md)
+   * [crazy Object](02_front_end/crazyObjectTwo.md)
 * [Homework](01_basics/ah_star_wars_cli.md)
    * [function](02_front_end/BeginnerFunctionPractice.md)
    * [layout challenge](02_front_end/cssChallenge.md)
    * [JS Clock](02_front_end/JSClock.md)
+   * [vanilla Fellowship](WeekendHomework.md)
+
