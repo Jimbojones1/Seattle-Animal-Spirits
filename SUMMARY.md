@@ -31,4 +31,5 @@
    * [layout challenge](02_front_end/cssChallenge.md)
    * [JS Clock](02_front_end/JSClock.md)
    * [vanilla Fellowship](02_front_end/WeekendHomework.md)
+   * [Fellowship answers](02_front_end/fellowShipAnswers.md)
 
