@@ -38,5 +38,5 @@
    * [jquery fellowship answers](03_intermediate_front_end/jQueryFellowshipAnswer.md)
 * [What should I do now](03_intermediate_front_end/classEnding.md)
    * [some project ideas](03_intermediate_front_end/ideas.md)
-   * [tips for coding your game](03_intermediate_front_end/getting_started)
+   * [tips for coding your game](03_intermediate_front_end/getting_started.md)
    * [wtf are constructors/classes](03_intermediate_front_end/d03-constructors.md)
