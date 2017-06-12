@@ -39,7 +39,6 @@
 * [What should I do now](03_intermediate_front_end/classEnding.md)
    * [http](03_intermediate_front_end/http_api.png)
    * [http request](03_intermediate_front_end/http_request_response.jpeg)
-   * [http request](03_intermediate_front_end/http_request_response.png)
    * [some project ideas](03_intermediate_front_end/ideas.md)
    * [tips for coding your game](03_intermediate_front_end/getting_started)
    * [wtf are constructors/classes](03_intermediate_front_end/d03-constructors.md)
