@@ -9,7 +9,7 @@ Constructors are blueprints to create objects. We define a function that accepts
 ```javascript
 // the giver (todo: read)
 
-function person(name, age, fact) {
+function Person(name, age, fact) {
 
   // assign properties to an object
   this.name = name;
@@ -24,7 +24,7 @@ function person(name, age, fact) {
 // it creates an object
 // a constructor is a blueprint to construct an object
 // speeds, colour, size, price, brand
-function bike(speeds, colour, size, price, brand) {
+function Bike(speeds, colour, size, price, brand) {
 
   // attributes
   this.speeds = speeds;
@@ -40,10 +40,15 @@ function bike(speeds, colour, size, price, brand) {
 
 }
 // declare a variable called annasBike
-// create a 'new' INSTANCE of 'bike'
+// create a 'new' INSTANCE of 'Bike'
 // create a new copy of bike
-var annasBike = new bike(21, 'teal', 'small', 350, 'diamondback');
+var annasBike = new Bike(21, 'teal', 'small', 350, 'diamondback');
 annasBike.toString();
-var jamesBike = new bike(6, 'white', 'medium', 200, 'biria');
+var jamesBike = new Bike(6, 'white', 'medium', 200, 'biria');
 jamesBike.toString();
 ```
+
+
+### The this keyword references each individual `instance` of an object,
+### that means everytime we call `new Bike()` we are creating a new object
+### and our this is referencing that unique object everytime. 
