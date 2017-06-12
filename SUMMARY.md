@@ -37,7 +37,6 @@
    * [ajax in depth](03_intermediate_front_end/ajax_inDepth.md)
    * [jquery fellowship answers](03_intermediate_front_end/jQueryFellowshipAnswer.md)
 * [What should I do now](03_intermediate_front_end/classEnding.md)
-   * [http](03_intermediate_front_end/http_api.png)
    * [http request](03_intermediate_front_end/http_request_response.jpeg)
    * [some project ideas](03_intermediate_front_end/ideas.md)
    * [tips for coding your game](03_intermediate_front_end/getting_started)
