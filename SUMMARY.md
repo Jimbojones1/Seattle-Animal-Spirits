@@ -31,5 +31,5 @@
    * [layout challenge](02_front_end/cssChallenge.md)
    * [Temperature Converter](02_front_end/JSClock.md)
    * [vanilla Fellowship](02_front_end/WeekendHomework.md)
-   * [Fellowship answers](02_front_end/fellowShipAnswers.md)
+   * [Fellowship answers](02_front_end/FellowShipAnswers.md)
 
