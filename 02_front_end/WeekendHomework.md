@@ -1,6 +1,6 @@
  ## Weekend Homework 
 
-(Github Repo)[https://github.com/ga-chicago/vanilla-fellowship]
+[Github Repo](https://github.com/ga-chicago/vanilla-fellowship)
 
 
 The homework this weekend is challenging, but a really great excercise to learn

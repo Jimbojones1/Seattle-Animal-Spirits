@@ -1,3 +1,3 @@
-# Javascript Clock Assignment
+# Javascript Temperature Converter Assignment
 
-[Clock Repo](https://github.com/WDI-SEA/temperature-converter-dom)
+[Temperature Converter Repo](https://github.com/WDI-SEA/temperature-converter-dom)

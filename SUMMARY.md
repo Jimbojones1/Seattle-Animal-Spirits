@@ -29,7 +29,7 @@
 * [Homework](01_basics/ah_star_wars_cli.md)
    * [function](02_front_end/BeginnerFunctionPractice.md)
    * [layout challenge](02_front_end/cssChallenge.md)
-   * [JS Clock](02_front_end/JSClock.md)
+   * [Temperature Converter](02_front_end/JSClock.md)
    * [vanilla Fellowship](02_front_end/WeekendHomework.md)
    * [Fellowship answers](02_front_end/fellowShipAnswers.md)
 
